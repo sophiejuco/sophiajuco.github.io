@@ -1,13 +1,12 @@
 # Data Science Master's Student
 
 ## Education
-**New York University, Graduate School of Arts & Science,** New York, NY (_Anticipated May 2025_)
-
-Master of Science, Data Science; GPA: 3.556
+**New York University, Graduate School of Arts & Science,** New York, NY (_Anticipated May 2025_)  
+Master of Science, Data Science; GPA: 3.556  
 * *Relevant Coursework:* Introduction to Data Science, Probability & Statistics for Data Science, Natural Language Processing, Big Data, Machine Learning, Responsible Data Science
 
-**New York University, College of Arts & Science,** New York, NY (_May 2023_)
-Bachelor of Art in Data Science; Minors: Astronomy and Food Studies; GPA: 3.829
+**New York University, College of Arts & Science,** New York, NY (_May 2023_)  
+Bachelor of Art in Data Science; Minors: Astronomy and Food Studies; GPA: 3.829  
 * Minors in Astronomy and Food Studies
 * *Notable Accomplishments:* Graduated cum laude, Dean’s List for Academic Year: Fall 2019-Spring 2023
 * *Relevant Coursework:* Introduction to Data Science, Responsible Data Science, Causal Inference, Advanced Topics in Data
@@ -15,22 +14,19 @@ Science: Deep Learning, Introduction to Computer Science, Big Ideas in Artificia
 Analysis, Introduction to Machine Learning, Linear Algebra, Probability & Statistics
 
 ## Relevant Work Experience
-**Passaic Metal and Building Supplies Company** (_Clifton, NJ_)
-
-Data Analytics Consultant (_September 2022-May 2023_)
+**Passaic Metal and Building Supplies Company** (_Clifton, NJ_)  
+Data Analytics Consultant (_September 2022-May 2023_)  
 * Assessed and updated SQL function code and Streamlit app code
 * Evaluated and edited analysis coding exam for prospective incoming interns
 
-**Passaic Metal and Building Supplies Company** (_Clifton, NJ_)
-
-Data Analyst Intern (_June 2021-August 2021, June 2022-August 2022_)
+**Passaic Metal and Building Supplies Company** (_Clifton, NJ_)  
+Data Analyst Intern (_June 2021-August 2021, June 2022-August 2022_)  
 * Completed code for new pricing program to increase margins on specific customers and products
 * Assisted in coding a company-wide data migration project and Streamlit apps to automate calculations
 * Completed data analysis projects (PVM analysis, margins, ov
 
-**InclusionBridge** (_Remote_)
-
-Essential Skills Program Assistant Volunteer (_September 2023-Present_)
+**InclusionBridge** (_Remote_)  
+Essential Skills Program Assistant Volunteer (_September 2023-Present_)  
 * Assist in research for and development of a curriculum program geared for undergraduate students studying data science
 * Create lesson plans based on curriculum, including slide decks and activities
 * Write data science and analysis project outline and example answer
