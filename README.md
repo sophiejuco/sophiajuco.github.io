@@ -2,16 +2,10 @@
 
 ## Education
 **New York University, Graduate School of Arts & Science,** New York, NY (_Anticipated May 2025_)  
-Master of Science, Data Science; GPA: 3.556  
-* *Relevant Coursework:* Introduction to Data Science, Probability & Statistics for Data Science, Natural Language Processing, Big Data, Machine Learning, Responsible Data Science
+Master of Science, Data Science
 
-**New York University, College of Arts & Science,** New York, NY (_May 2023_)  
-Bachelor of Art in Data Science; Minors: Astronomy and Food Studies; GPA: 3.829  
-* Minors in Astronomy and Food Studies
-* *Notable Accomplishments:* Graduated cum laude, Dean’s List for Academic Year: Fall 2019-Spring 2023
-* *Relevant Coursework:* Introduction to Data Science, Responsible Data Science, Causal Inference, Advanced Topics in Data
-Science: Deep Learning, Introduction to Computer Science, Big Ideas in Artificial Intelligence, Data Structures, Data Management &
-Analysis, Introduction to Machine Learning, Linear Algebra, Probability & Statistics
+**New York University, College of Arts & Science,** New York, NY (_May 2023, Graduated cum laude_)  
+Bachelor of Art in Data Science; Minors: Astronomy and Food Studies
 
 ## Relevant Work Experience
 **Passaic Metal and Building Supplies Company** (_Clifton, NJ_)  
