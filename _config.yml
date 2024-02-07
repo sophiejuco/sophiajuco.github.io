@@ -1,5 +1,5 @@
 title: Sophia Juco
-logo: (assets/img/headshot_circle2.jpg){: width="250" }
+logo: assets/img/headshot_circle2.jpg
 #description:
 #show_downloads: false
 theme: jekyll-theme-minimal
