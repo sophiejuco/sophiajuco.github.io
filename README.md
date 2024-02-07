@@ -30,7 +30,7 @@ Essential Skills Program Assistant Volunteer (_September 2023-Present_)
 **Music Assessment & Recommendation System using Spotify Music Ratings Data** (Graduate Intro to Data Science Capstone Project)  
 [GitHub Repository](https://github.com/sophiejuco/DSGA-1001_Final_Project)  
 
-Using Spotify data on 52,000 songs and song ratings by 10,000 users, this project sets out to better understand what makes music popular as well as audio features that make up specific genres. A recommender system for the 10,000 users is also built in this project
+Using Spotify data on 52,000 songs and song ratings by 10,000 users, this project sets out to better understand what makes music popular as well as audio features that make up specific genres. A recommender system for the 10,000 users is also built in this project.
 
 **Document Localization with Transfer Learning** (Advanced Topics in Data Science: Deep Learning Capstone Project)  
 [GitHub Repository](https://github.com/sophiejuco/DS301_final_project)  
