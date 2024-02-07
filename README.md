@@ -34,21 +34,21 @@ Essential Skills Program Assistant Volunteer (_September 2023-Present_)
 
 ## Projects
 **Music Assessment & Recommendation System using Spotify Music Ratings Data** (Graduate Intro to Data Science Capstone Project)  
-[GitHub Repository](https://github.com/sophiejuco/DSGA-1001_Final_Project)
+[GitHub Repository](https://github.com/sophiejuco/DSGA-1001_Final_Project)  
 
 Using Spotify data on 52,000 songs and song ratings by 10,000 users, this project sets out to better understand what makes music popular as well as audio features that make up specific genres. A recommender system for the 10,000 users is also built in this project
 
 **Document Localization with Transfer Learning** (Advanced Topics in Data Science: Deep Learning Capstone Project)  
-[GitHub Repository](https://github.com/sophiejuco/DS301_final_project)
+[GitHub Repository](https://github.com/sophiejuco/DS301_final_project)  
 
 Pre-trained ResNet 18 (ImageNet) CNN models refined to recognize document boundaries, evaluating performance using intersection-over-union. Three variations of refinement of the pre-trained CNN model were executed using **TensorFlow** and the results were used to find the optimal refined model. The three variations were (1) regression head training only, (2) partial fine-tuning, and (3) full fine-tuning.
 
 **Hypothesis Testing using Movie Ratings Data** (Graduate Intro to Data Science Project 1)  
-[GitHub Repository](https://github.com/sophiejuco/DSGA-1001_data_analysis_project1)
+[GitHub Repository](https://github.com/sophiejuco/DSGA-1001_data_analysis_project1)  
 
 Using movie ratings data and viewer characteristics data, hypothesis testing was used to answer questions surrounding movie popularity and enjoyment.
 
 **Machine Learning Methods using Movie Ratings Data** (Graduate Intro to Data Science Project 2)  
-[GitHub Repository](https://github.com/sophiejuco/DSGA-1001_Data_Analysis_Project2)
+[GitHub Repository](https://github.com/sophiejuco/DSGA-1001_Data_Analysis_Project2)  
 
 Linear regression, multiple linear regression, regularized regression, ridge regression, LASSO regression, and logistic regression models were implemented and trained on movie ratings data and viewer characteristics data to produce predictions involving movie enjoyment and viewers' ratings.
