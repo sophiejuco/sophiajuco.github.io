@@ -35,7 +35,7 @@ Using Spotify data on 52,000 songs and song ratings by 10,000 users, this projec
 **Document Localization with Transfer Learning** (Advanced Topics in Data Science: Deep Learning Capstone Project)  
 [GitHub Repository](https://github.com/sophiejuco/DS301_final_project)  
 
-Pre-trained ResNet 18 (ImageNet) CNN models refined to recognize document boundaries, evaluating performance using intersection-over-union. Three variations of refinement of the pre-trained CNN model were executed using **TensorFlow** and the results were used to find the optimal refined model. The three variations were (1) regression head training only, (2) partial fine-tuning, and (3) full fine-tuning.
+Pre-trained ResNet 18 (ImageNet) CNN models refined to recognize document boundaries, evaluating performance using intersection-over-union. Three variations of refinement of the pre-trained CNN model were executed using *TensorFlow* and the results were used to find the optimal refined model. The three variations were (1) regression head training only, (2) partial fine-tuning, and (3) full fine-tuning.
 
 **Hypothesis Testing using Movie Ratings Data** (Graduate Intro to Data Science Project 1)  
 [GitHub Repository](https://github.com/sophiejuco/DSGA-1001_data_analysis_project1)  
