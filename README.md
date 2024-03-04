@@ -17,13 +17,13 @@ Data Analytics Consultant (_September 2022-May 2023_)
 Data Analyst Intern (_June 2021-August 2021, June 2022-August 2022_)  
 * Completed code for new pricing program to increase margins on specific customers and products
 * Assisted in coding a company-wide data migration project and Streamlit apps to automate calculations
-* Completed data analysis projects (PVM analysis, margins, ov
+* Completed data analysis projects (PVM analysis, margins, override orders, new customers, repricing) and presented them with dashboards and slide decks to company executives
 
 **InclusionBridge** (_Remote_)  
 Essential Skills Program Assistant Volunteer (_September 2023-Present_)  
 * Assist in research for and development of a curriculum program geared for undergraduate students studying data science
 * Create lesson plans based on curriculum, including slide decks and activities
-* Write data science and analysis project outline and example answer
+* Write data science and analysis project outline and example answers
 
 
 ## Projects
