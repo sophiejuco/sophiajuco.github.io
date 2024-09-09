@@ -8,6 +8,12 @@ Master of Science, Data Science
 Bachelor of Art in Data Science; Minors: Astronomy and Food Studies
 
 ## Relevant Work Experience
+**Kalypso, A Rockwell Automation Business** (_Remote_)  
+Data Science Consultant Intern (_June 2024-August 2024_)  
+* Collaborated with cross-functional teams to optimize and implement an AI and machine vision line production optimization system for a leading tire manufacturer
+* Created a detailed production-specific process training deck and the project’s case study slide deck to support further advancements and initiatives in this field
+* Supported internal initiatives in data management and architecture, and practical GenAI
+
 **Passaic Metal and Building Supplies Company** (_Clifton, NJ_)  
 Data Analytics Consultant (_September 2022-May 2023_)  
 * Assessed and updated SQL function code and Streamlit app code
@@ -20,7 +26,7 @@ Data Analyst Intern (_June 2021-August 2021, June 2022-August 2022_)
 * Completed data analysis projects (PVM analysis, margins, override orders, new customers, repricing) and presented them with dashboards and slide decks to company executives
 
 **InclusionBridge** (_Remote_)  
-Essential Skills Program Assistant Volunteer (_September 2023-Present_)  
+Essential Skills Program Assistant Volunteer (_September 2023-June 2024_)  
 * Assist in research for and development of a curriculum program geared for undergraduate students studying data science
 * Create lesson plans based on curriculum, including slide decks and activities
 * Write data science and analysis project outline and example answers
